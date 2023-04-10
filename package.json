@@ -1,0 +1,11 @@
+{
+  "name": "og-image-service",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "@vercel/node": "^1.12.1"
+  }
+}
